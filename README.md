@@ -26,3 +26,6 @@ b) Opazujte delovanje (utripanje modre LED). Kaj se zgodi, ko pritisnemo na modr
 c) Ali pritisk na modro tipko vpliva na utripanje modre LED in zakaj?
    Ne, pritisk na modro tipko ne vpliva na utripanje modre LED, zato ker pritisk tipke ni povezan z modro LED.
    
+   
+Mikroprocesor je sporgramiran tako, da se ob pritisku modre tipke na STM32F0 prižge/ugasne zelena LED. Modra LED pa vedno utripa.    
+   
